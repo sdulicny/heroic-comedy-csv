@@ -1,6 +1,9 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
+direct_link, Link to Post,,true
+related_link, Collaborator,,true
+related_link2, Collaborator,,true
 external_link,,,true
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
