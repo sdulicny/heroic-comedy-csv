@@ -1,5 +1,5 @@
 ---
-title: Recently Added to the Heroic Comedy Archives
+title: Newest Items
 layout: about
 permalink: /new.html
 ---
