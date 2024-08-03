@@ -1,5 +1,5 @@
 ---
 title: Newest Items
-layout: browse
+layout: default
 permalink: /new.html
 ---
