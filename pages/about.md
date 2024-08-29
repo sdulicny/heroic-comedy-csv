@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="hc_access_004.jpg" %} 
+{% include feature/jumbotron.html objectid="hc_access_004" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About The Project;About the Creators" %}
 
 ## About The Heroic Comedy Archives
 
