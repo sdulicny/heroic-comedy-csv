@@ -10,11 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="banner" %} 
 
-{% include feature/nav-menu.html sections="About The Project;About the Creators" %}
+{% include feature/nav-menu.html sections="About The Comedy Against Authority Project;About the Creators" %}
 
 ## About The Comedy Against Authority Project
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This is where we add a description of the inception of the project, as well as the proposed outcomes of the Comedy Against Authority Project.
+
+{% include feature/card.html header="North Atlantic Fellas Organization" text="Get your own Fella!" objectid="hc_compound_access_004" width="25" centered=true %}
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
@@ -32,7 +34,7 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
 
-## About the Creators of the Comedy Against Authority Project
+## About the Creators
 
 The "Comedy Against Authority" project was created by Dr. Diana Solomon and Dr. Sean Zwagerman of the Faculty of Arts and Social Sciences at Simon Fraser University.
 
