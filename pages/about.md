@@ -8,7 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="banner" %} 
+{% include feature/jumbotron.html objectid="banner" %}
+
 
 {% include feature/nav-menu.html sections="About The Comedy Against Authority Project;About the Creators" %}
 
@@ -16,7 +17,7 @@ credits: true
 
 This is where we add a description of the inception of the project, as well as the proposed outcomes of the Comedy Against Authority Project.
 
-{% include feature/card.html header="North Atlantic Fellas Organization" text="Get your own Fella!" objectid="hc_compound_access_004" width="25" centered=true %}
+{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_compound_access_004" width="25" centered=true %}
 
 
 
