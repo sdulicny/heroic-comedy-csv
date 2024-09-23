@@ -18,7 +18,7 @@ credits: true
 This is where we add a description of the inception of the project, as well as the proposed outcomes of the Comedy Against Authority Project.
 
 
-{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_compound_access_001" width="25" centered=true %}
+{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_c_a_001" width="25" centered=true %}
 
 
 
