@@ -3,12 +3,14 @@ title: NAFO
 layout: about
 permalink: /nafo.html
 ---
+
 {% include feature/blockquote.html quote="The NAFO Collection and Related Articles" centered=true %}
 
 The North Atlantic Fella Organization uses satirical humour to raise awareness 
 and funds for Ukraine. To find out more about it, you can find the organization's 
 website <a href="https://nafo-ofan.org/en-ca">here.
 ---
+
 {% include feature/blockquote.html quote="Articles about NAFO" centered=true %}
 
 - Dougherty, Jill. <a href=https://www.cnn.com/2023/07/11/europe/ukraine-nafo-russian-trolls-intl/index.html> The pro-Ukraine internet fellas using Shiba Inu memes to fight Russian propaganda 
@@ -20,8 +22,8 @@ website <a href="https://nafo-ofan.org/en-ca">here.
 - Kirichenko, David. <a href="https://cepa.org/article/nafos-fellas-must-evolve/"> NAFO’s Fellas Must Evolve 
 *Center for European Policy Analysis*, 2023.
 
+***
 
----
 
 {% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_c_a_001" width="25" centered=true %}
 
