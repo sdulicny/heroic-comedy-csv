@@ -13,14 +13,22 @@ website <a href="https://nafo-ofan.org/en-ca">here.
 
 {% include feature/blockquote.html quote="Articles about NAFO" centered=true %}
 
+- Adam. <a href="https://knowyourmeme.com/memes/cultures/nafo-north-atlantic-fella-organization"> NAFO/North Atlantic Fellas Organization *Know Your Meme*, 2022.
+
 - Dougherty, Jill. <a href=https://www.cnn.com/2023/07/11/europe/ukraine-nafo-russian-trolls-intl/index.html> The pro-Ukraine internet fellas using Shiba Inu memes to fight Russian propaganda 
 *CNN*, 2023.
 
 - Gault, Matthew.<a href="https://www.vice.com/en/article/shitposting-shiba-inu-accounts-chased-a-russian-diplomat-offline/"> Shitposting Shiba Inu Accounts Chased a Russian Diplomat Offline
 *VICE*, 2022.
 
+- Inveiss, Nora. <a href="https://www.printful.com/ca/blog/nafo-interview"> The Story of NAFO: Making Memes, Driving Donations, and Countering Propaganda *Printful*, 2023.
+
 - Kirichenko, David. <a href="https://cepa.org/article/nafos-fellas-must-evolve/"> NAFO’s Fellas Must Evolve 
 *Center for European Policy Analysis*, 2023.
+
+- Vatnik Soup. <a href="https://vatniksoup.com/en/soups/205/"> #NAFO *Vatnik Soup*, 2023.
+
+- United24. <a href="https://u24.gov.ua/news/nafo"> UNITED24 Launching a NAFO Fundraiser for the Naval Drones *United24*, 2022.
 
 ***
 
