@@ -15,10 +15,12 @@ credits: true
 
 ## About The Comedy Against Authority Project
 
-This is where we add a description of the inception of the project, as well as the proposed outcomes of the Comedy Against Authority Project.
 
+Welcome to Comedy Against Authority! This digital archive began in 2023 as part of a research project on the topic of twentieth-century comedy against authoritarianism. It has since broadened to include humour against censorious and antidemocratic authority. This archive is the work of Diana Solomon, Sean Zwagerman, and Sarah Cipes, is hosted by Simon Fraser University, and has been supported by a Faculty of Arts and Social Sciences Kickstarter Grant and a Department of English Research Grant.
 
-
+So what does Comedy Against Authority look like? Underlying this archive is the recognition that humour can be much more than a temporary respite from sociopolitical problems. The examples here demonstrate the potential of comedy to defy antidemocratic powers and imagine alternatives: other ways to talk, think, interact with one another, and construct social reality.
+ 
+We invite you to contribute your own ideas or examples of Comedy Against Authority here 
 
 
 ## About the Creators
