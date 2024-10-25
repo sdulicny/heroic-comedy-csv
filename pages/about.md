@@ -22,6 +22,8 @@ So what does Comedy Against Authority look like? Underlying this archive is the 
  
 We invite you to contribute your own ideas or examples of Comedy Against Authority here 
 
+{% include feature/button.html text="Submit to Comedy Against Authority" link="submission.html" color="success" %}
+
 
 ## About the Creators
 

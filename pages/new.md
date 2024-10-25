@@ -1,7 +1,7 @@
 ---
 title: New
 layout: page
-permalink: /new.html
+permalink: /new.md
 ---
 {% include feature/blockquote.html quote="The Newest Objects in the Heroic Archives Collection" centered=true %}
 
