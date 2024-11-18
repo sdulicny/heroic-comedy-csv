@@ -3,7 +3,7 @@ title: NAFO
 layout: about
 permalink: /nafo.html
 ---
-{% include feature/jumbotron.html objectid="NAFO_Banner.jpg" %}
+{% include feature/jumbotron.html objectid="NAFO_Banner" %}
 
 {% include feature/blockquote.html quote="The NAFO Collection and Related Articles" centered=true %}
 
