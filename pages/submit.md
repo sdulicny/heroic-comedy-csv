@@ -12,6 +12,7 @@ permalink: /submit.html
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
 
+  </div>
 <select class="custom-select custom-select-lg mb-3">
   <option selected>Contact Type</option>
   <option value="1">Submission</option>
