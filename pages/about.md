@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="banner" %}
+{% include feature/jumbotron.html objectid="" %}
 
 
 {% include feature/nav-menu.html sections="About The Comedy Against Authority Project;About the Creators" %}
