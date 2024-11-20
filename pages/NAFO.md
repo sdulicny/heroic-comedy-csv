@@ -7,10 +7,8 @@ permalink: /nafo.html
 
 {% include feature/blockquote.html quote="The NAFO Collection and Related Articles" centered=true %}
 
-The North Atlantic Fella Organization uses satirical humour to raise awareness 
-and funds for Ukraine. To find out more about it, you can find the organization's 
-website <a href="https://nafo-ofan.org/en-ca">here.
----
+The North Atlantic Fella Organization uses satirical humour to raise awareness and funds for Ukraine. To find out more about it, you can find the organization's website <a href="https://nafo-ofan.org/en-ca">here.
+
 
 {% include feature/blockquote.html quote="Articles about NAFO" centered=true %}
 
