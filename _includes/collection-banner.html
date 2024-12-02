@@ -27,7 +27,7 @@
             {% if site.tagline %}<p class="mb-0">{{ site.tagline }}</p>{% endif %}
         </div>
         {% unless site.data.theme.featured-image contains '/' %}
-        <div class="position-absolute bottom-0 end-0 px-2 bg-dark bg-opacity-90">
+        <div class="position-absolute bottom-0 end-0 px-2 bg-dark bg-opacity-60">
             <a class="text-white fs-6" href="{{ site.data.featured_item.link | relative_url }}" title="{{ site.data.featured_item.alt | escape }}">Featured Image</a>
         </div>{% endunless %}
     </div>

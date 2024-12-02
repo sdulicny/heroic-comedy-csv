@@ -53,7 +53,7 @@ metadata: final_heroic_comedy_metadata
 organization-name: Simon Fraser University Faculty of Arts and Social Sciences
 organization-link: https://www.sfu.ca/fass.html
 organization-logo-banner: 
-organization-logo-nav: objects/banner.jpg
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
