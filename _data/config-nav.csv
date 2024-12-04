@@ -1,9 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
-Subjects,/subjects.html,Browse
-Data,/data.html,Browse
+Browse,/browse.html,Collections
+Subjects,/subjects.html,Collections
+Data,/data.html,
 About,/about.html
 New,/new.html
-NAFO,/nafo.html
-Submit,/submit.html,About
+NAFO,/nafo.html,Collections
+Submit,/submit.html,
+Collections
