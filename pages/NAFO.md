@@ -5,6 +5,16 @@ permalink: /nafo.html
 ---
 {% include feature/jumbotron.html objectid='objects/NAFO_Banner.jpg' %}
 
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p class="mb-0">You pronounced this nonsense, not me.</p>
+  
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    NAFO Fella @MontayBayBay <cite title="Source Title">X Post</cite>
+  </figcaption>
+</figure>
+
 {% include feature/blockquote.html quote="The NAFO Collection and Related Articles" centered=true %}
 
 The North Atlantic Fella Organization uses satirical humour to raise awareness and funds for Ukraine. To find out more about it, you can find the organization's website <a href="https://nafo-ofan.org/en-ca">here.
