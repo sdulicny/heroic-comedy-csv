@@ -18,7 +18,7 @@ permalink: /nafo.html
 </figure>
 
 The North Atlantic Fella Organization uses satirical humour to raise awareness and funds for Ukraine. To find out more about it, you can find the organization's website <a href="https://nafo-ofan.org/en-ca">here.
-</h1>
+
 <p class="lead">Articles About NAFO</p>
 - Adam. <a href="https://knowyourmeme.com/memes/cultures/nafo-north-atlantic-fella-organization"> NAFO/North Atlantic Fellas Organization *Know Your Meme*, 2022.
 
