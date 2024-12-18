@@ -5,6 +5,8 @@ permalink: /nafo.html
 ---
 {% include feature/jumbotron.html objectid='objects/NAFO_Banner.jpg' %}
 
+
+
 <figure class="text-center">
   <blockquote class="blockquote">
     <p class="mb-0">You pronounced this nonsense, not me.</p>
@@ -14,6 +16,8 @@ permalink: /nafo.html
     NAFO Fella @MontayBayBay <cite title="Source Title">X Post</cite>
   </figcaption>
 </figure>
+
+{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_c_a_001" width="25" centered=true %}
 
 {% include feature/blockquote.html quote="The NAFO Collection and Related Articles" centered=true %}
 
@@ -45,6 +49,6 @@ The North Atlantic Fella Organization uses satirical humour to raise awareness a
 
 {% include feature/image.html objectid="hc_c_a_001;hc_c_a_002;hc_c_a_003" %}
 
-{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_c_a_001" width="25" centered=true %}
+
 
 {% include feature/button.html text="Return to Homepage" link="/" color="success" centered=true %}
