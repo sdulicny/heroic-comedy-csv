@@ -1,9 +1,9 @@
 color_class,color
-primary,green
-secondary,red
+primary,dodgerblue
+secondary,gray
 success,#32a89c
-info,#4232a8
+info,#32a89c
 warning,#90a832
 danger,#a83259
-light,#a4c9e8
+light,lightgray
 dark,#080812
