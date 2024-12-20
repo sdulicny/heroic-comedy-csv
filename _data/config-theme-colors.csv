@@ -1,10 +1,10 @@
 color_class,color
-primary,dodgerblue
+primary,lightgray
 secondary,gray
 success,#32a89c
 info,#32a89c
 warning,#90a832
 danger,#a83259
 light
-dark,#080812
+dark
 background-color, lightgray
