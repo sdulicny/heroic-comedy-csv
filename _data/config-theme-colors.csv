@@ -5,6 +5,6 @@ success,#32a89c
 info,#32a89c
 warning,#90a832
 danger,#a83259
-light,lightgray
+light
 dark,#080812
 background-color, lightgray
