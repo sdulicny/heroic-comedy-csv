@@ -5,3 +5,5 @@ permalink: /rexvrex.html
 ---
 
 <p class="lead">Reghts Vs. Reghts Movement</p>
+
+{% include feature/jumbotron.html objectid='objects/Rex_Banner.jpg' %}
