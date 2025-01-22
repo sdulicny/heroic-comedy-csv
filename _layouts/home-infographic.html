@@ -4,24 +4,11 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
-
-  <div class="col-md-8">
-
-    {% include feature/blockquote.html quote="Comedy Against Authority was coined by Dr. Diana Solomon and Dr. Sean Zwagerman. This digital archive features social media content that uses comedy as a way to fight against societal and political authority, to shed light on the importance of comedy as an anti-authoritarian tool in contemporary society" %}
-    {% include index/carousel.html title="Sample Items" %}
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" max=20 %}
-    
-  </div>
-  <div class="col-sm-4">  
-    
-    {% include feature/card.html header="NAFO" objectid="hc_c_a_003" width="10" centered=true %}
-
-  </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
-
-  </div>
+  ---
+  title: Example
+  layout: page
+  permalink: /about.html
+  ---
   
   <div class="row">
       
@@ -52,9 +39,19 @@ layout: page
   
   </div>
 
-  
-  
-  
-  
-  
+  <div class="col-md-8">
+
+    {% include feature/blockquote.html quote="Comedy Against Authority was coined by Dr. Diana Solomon and Dr. Sean Zwagerman. This digital archive features social media content that uses comedy as a way to fight against societal and political authority, to shed light on the importance of comedy as an anti-authoritarian tool in contemporary society" %}
+    {% include index/carousel.html title="Sample Items" %}
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" max=20 %}
+    
+  </div>
+
+  </div>
+  <div class="col-md-12">
+
+    {% include index/data-download.html %}
+
+  </div>
+
 </div>
