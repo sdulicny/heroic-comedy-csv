@@ -2,7 +2,7 @@ color_class,color
 primary,lightgray
 secondary,gray
 success,#32a89c
-info,#32a89c
+info,darkgray
 warning,#90a832
 danger,#a83259
 light
