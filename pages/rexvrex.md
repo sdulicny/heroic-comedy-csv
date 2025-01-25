@@ -4,9 +4,10 @@ layout: about
 permalink: /rexvrex.html
 ---
 
-## Reghts Gegen Reghts [Right Against Right] Movement
-
 {% include feature/jumbotron.html objectid='objects/Rex_Banner.jpg' %}
+
+## Reghts Gegen Reghts Movement
+# Right Against Rights
 
 <p class="lead">Articles About Reghts Gegen Rechts</p>
 - ZDK Society for Democratic Culture gGmbH. <a href="https://rechtsgegenrechts.de/?fbclid=IwZXh0bgNhZW0CMTAAAR3xPJ1v3tC_1ZCwJghEwpSM_w40b8zLKkatc06cICjwrK5h11Ev5ulyNWY_aem_OCv-4pLCy-2_-Ry56Fjn8Q"> Germany's Most Involuntary Fundraising Run Continues!, 2014.
