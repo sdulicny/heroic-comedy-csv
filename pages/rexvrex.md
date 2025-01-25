@@ -4,7 +4,7 @@ layout: about
 permalink: /rexvrex.html
 ---
 
-<p class="page-header">Reghts Gegen Reghts [Right Against Right] Movement</p>
+## Reghts Gegen Reghts [Right Against Right] Movement
 
 {% include feature/jumbotron.html objectid='objects/Rex_Banner.jpg' %}
 
