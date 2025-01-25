@@ -1,10 +1,10 @@
 ---
-title: Reghts Vs. Reghts
+title: Reghts Gegen Reghts
 layout: about
 permalink: /rexvrex.html
 ---
 
-<p class="lead">Reghts Vs. Reghts Movement</p>
+<p class="lead">Reghts Gegen Reghts [Right Against Right] Movement</p>
 
 {% include feature/jumbotron.html objectid='objects/Rex_Banner.jpg' %}
 
