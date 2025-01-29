@@ -33,6 +33,8 @@ The North Atlantic Fella Organization uses satirical humour to raise awareness a
 - Kirichenko, David. <a href="https://cepa.org/article/nafos-fellas-must-evolve/"> NAFO’s Fellas Must Evolve 
 *Center for European Policy Analysis*, 2023.
 
+- Kirichenko, David. <a href="https://www.kyivpost.com/opinion/34772"> OPINION: NAFO Claims Another High-Profile Victim, *Kyiv Post*, 2024.
+
 - Vatnik Soup. <a href="https://vatniksoup.com/en/soups/205/"> #NAFO *Vatnik Soup*, 2023.
 
 - United24. <a href="https://u24.gov.ua/news/nafo"> UNITED24 Launching a NAFO Fundraiser for the Naval Drones *United24*, 2022.
