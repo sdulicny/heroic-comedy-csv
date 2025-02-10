@@ -3,7 +3,7 @@ title: NAFO
 layout: about
 permalink: /nafo.html
 ---
-{% include feature/jumbotron.html objectid='objects/NAFO_Banner.jpg' %}
+{% include feature/jumbotron.html objectid='objects/NAFO_Banner.jpg' text="North Atlantic Fellas Organization" %}
 
 # North Atlantic Fellas Organization
 
