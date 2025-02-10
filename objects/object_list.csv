@@ -1,6 +1,6 @@
 filename,object_location,image_small,image_thumb
 NAFO_Banner.jpg,/objects/NAFO_Banner.jpg,/objects/small/nafo_banner_sm.jpg,/objects/thumbs/nafo_banner_th.jpg
-Rex_Banner.jpg,/objects/Rex_Banner.jpg,/objects/small/rex_banner_sm.jpg,/objects/thumbs/rex_banner_th.jpg
+Rex_Banner.png,/objects/Rex_Banner.png,/objects/small/rex_banner_sm.jpg,/objects/thumbs/rex_banner_th.jpg
 banner.jpg,/objects/banner.jpg,/objects/small/banner_sm.jpg,/objects/thumbs/banner_th.jpg
 hc_access_001.jpg,/objects/hc_access_001.jpg,/objects/small/hc_access_001_sm.jpg,/objects/thumbs/hc_access_001_th.jpg
 hc_access_002.jpg,/objects/hc_access_002.jpg,/objects/small/hc_access_002_sm.jpg,/objects/thumbs/hc_access_002_th.jpg
@@ -34,6 +34,10 @@ hc_access_029.jpg,/objects/hc_access_029.jpg,/objects/small/hc_access_029_sm.jpg
 hc_access_030.jpg,/objects/hc_access_030.jpg,/objects/small/hc_access_030_sm.jpg,/objects/thumbs/hc_access_030_th.jpg
 hc_access_031.jpg,/objects/hc_access_031.jpg,/objects/small/hc_access_031_sm.jpg,/objects/thumbs/hc_access_031_th.jpg
 hc_access_032.jpg,/objects/hc_access_032.jpg,/objects/small/hc_access_032_sm.jpg,/objects/thumbs/hc_access_032_th.jpg
+hc_access_033.jpg,/objects/hc_access_033.jpg,/objects/small/hc_access_033_sm.jpg,/objects/thumbs/hc_access_033_th.jpg
+hc_access_034.jpg,/objects/hc_access_034.jpg,/objects/small/hc_access_034_sm.jpg,/objects/thumbs/hc_access_034_th.jpg
+hc_access_035.jpg,/objects/hc_access_035.jpg,/objects/small/hc_access_035_sm.jpg,/objects/thumbs/hc_access_035_th.jpg
+hc_access_036.jpg,/objects/hc_access_036.jpg,/objects/small/hc_access_036_sm.jpg,/objects/thumbs/hc_access_036_th.jpg
 hc_c_a_001.jpg,/objects/hc_c_a_001.jpg,/objects/small/hc_c_a_001_sm.jpg,/objects/thumbs/hc_c_a_001_th.jpg
 hc_c_a_002.jpg,/objects/hc_c_a_002.jpg,/objects/small/hc_c_a_002_sm.jpg,/objects/thumbs/hc_c_a_002_th.jpg
 hc_c_a_003.jpg,/objects/hc_c_a_003.jpg,/objects/small/hc_c_a_003_sm.jpg,/objects/thumbs/hc_c_a_003_th.jpg
