@@ -1,10 +1,10 @@
 color_class,color
 primary,lightgray
-secondary,gray
+secondary,darkgray
 success,#32a89c
 info,#3285a8
 warning,#90a832
 danger,#a83259
 light
 dark,
-background-color,lightgray
+background-color,#3285a8
