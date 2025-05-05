@@ -23,9 +23,9 @@ title: Comedy Against Authority
 tagline: A Digital Archive of Comedic Interventions
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Comedy Against Authority is the work of Dr. Diana Solomon and Dr. Sean Zwagerman. This digital archive features social media content that uses comedy as a way to fight against societal and political authority, to shed light on the importance of comedy as an anti-authoritarian tool in contemporary society"
+description:
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: comedy;archives;stand-up comedy;intervention;politics;protest;
+keywords: comedy;archives;stand-up comedy;intervention;politics;protest;memes;social media
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Comedy Against Authority Collective
 
