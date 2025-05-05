@@ -4,7 +4,7 @@ layout: page
 permalink: /submit.html
 ---
 
-## Submit to the Comedy Against Authority Project
+## Submit to the Collection
 
 <select class="custom-select custom-select-lg mb-3">
   <option selected>Contact Type</option>
