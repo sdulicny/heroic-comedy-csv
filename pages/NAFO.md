@@ -21,7 +21,7 @@ The North Atlantic Fella Organization uses satirical humour to raise awareness a
 <p class="lead">Articles About NAFO</p>
 - Adam. <a href="https://knowyourmeme.com/memes/cultures/nafo-north-atlantic-fella-organization"> NAFO/North Atlantic Fellas Organization *Know Your Meme*, 2022.
 
-- Dougherty, Jill. <a href=https://www.cnn.com/2023/07/11/europe/ukraine-nafo-russian-trolls-intl/index.html> The pro-Ukraine internet fellas using Shiba Inu memes to fight Russian propaganda 
+- Dougherty, Jill. <a href="https://www.cnn.com/2023/07/11/europe/ukraine-nafo-russian-trolls-intl/index.html"> The pro-Ukraine internet fellas using Shiba Inu memes to fight Russian propaganda 
 *CNN*, 2023.
 
 - Gault, Matthew.<a href="https://www.vice.com/en/article/shitposting-shiba-inu-accounts-chased-a-russian-diplomat-offline/"> Shitposting Shiba Inu Accounts Chased a Russian Diplomat Offline
@@ -43,6 +43,5 @@ The North Atlantic Fella Organization uses satirical humour to raise awareness a
 
 {% include feature/image.html objectid="hc_c_a_001;hc_c_a_002;hc_c_a_003" %}
 
-{% include feature/card.html text="Get your own Fella!" header="North Atlantic Fellas Organization" objectid="hc_c_a_001" width="25" centered=true %}
 
 {% include feature/button.html text="Return to Homepage" link="/" color="success" centered=true %}
