@@ -17,7 +17,7 @@ So what does Comedy Against Authority look like? Underlying this archive is the 
  
 We invite you to contribute your own ideas or examples of Comedy Against Authority here 
 
-{% include feature/button.html text="Submit to Comedy Against Authority" link="submission.html" color="success" %}
+{% include feature/button.html text="Submit to Comedy Against Authority" link="submit.html" color="success" %}
 
 
 ## About the Creators
@@ -28,6 +28,5 @@ Dr. Diana Solomon is associate professor of English at Simon Fraser University. 
 
 Dr. Sean Zwagerman is an associate professor of English at Simon Fraser University. His research focuses broadly on rhetoric and writing and in the compositional relationship among the word, the self, and the world. His particular research interests include the intersections of rhetorical theory and analytic philosophy, the rhetoric of humour, and public outrage about plagiarism and literacy. Dr. Zwagerman’s publications about comedy and humour theory include Wit’s End: Women’s Humor as Rhetorical and Performative Strategy 2010; “‘Comedy is What We’re Really About’: The Grateful Dead in a Comic Frame” 2020 and “The Scholarly Transgressions of Constance Rourke” 2017, “Little House on the Tundra: Female Winners of the Leacock Award for Canadian Comedy,” co-authored with Diana Solomon 2023. More about Sean's publications and research <a href="https://www.sfu.ca/english/people-dir/faculty/sean-zwagerman.html">here.
 
-##
 
 {% include feature/nav-menu.html sections="About The Comedy Against Authority Project;About the Creators" %}
