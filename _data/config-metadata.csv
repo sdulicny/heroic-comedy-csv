@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-title_complete, Full Title
+title_complete, Original Title
 creator,Creator,,,DCTERMS.creator,creator
 direct_link, Link to Post,,true
 related_link, Creator Site,,true

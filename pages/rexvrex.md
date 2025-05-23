@@ -16,7 +16,7 @@ permalink: /rexvrex.html
   </figcaption>
 </figure>
 
-Rechts gegen rechts - or Rights against rights in English - is a movement that uses practical jokes to trick neo-nazis into fundraising for causes that work against prejudice and oppression. For more information, see their website <a href="https://rechtsgegenrechts.de/">here. 
+Rechts gegen rechts - or Right against the right in English - is a movement that uses practical jokes to trick neo-nazis into fundraising for causes that work against prejudice and oppression. For more information, see their website <a href="https://rechtsgegenrechts.de/">here. 
 
 
 <p class="lead">Articles About Rechts Gegen Rechts</p>
