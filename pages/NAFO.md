@@ -16,7 +16,7 @@ permalink: /nafo.html
   </figcaption>
 </figure>
 
-The North Atlantic Fella Organization uses satirical humour to raise awareness and funds for Ukraine. To find out more about it, you can find the organization's website <a href="https://nafo-ofan.org/en-ca">here.
+The North Atlantic Fellas Organization (NAFO) is a grassroots community that fights propaganda at its source, using humour to “shitpost” and “ratio” pro-Russian and anti-Ukraine social media users, particularly Vladimir Putin’s online spokespeople. NAFO also raises funds to support the Ukrainian military in the fight against Russia's invasion. NAFO membership is $5, which covers the cost of the member’s “Fella”: a photoshopped avatar of a Shiba Inu customized to the user’s specifications (i.e., the member can personalize their Fella with a particular theme, clothing, background, and accessories). To find out more about it, you can find the organization's website <a href="https://nafo-ofan.org/en-ca">here.
 
 <p class="lead">Articles About NAFO</p>
 - Adam. <a href="https://knowyourmeme.com/memes/cultures/nafo-north-atlantic-fella-organization"> NAFO/North Atlantic Fellas Organization *Know Your Meme*, 2022.
