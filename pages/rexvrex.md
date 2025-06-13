@@ -24,6 +24,10 @@ Rechts gegen rechts - or Right against the right in English - is a movement that
 
 - DK Society for Democratic Culture gGmbH. <a href="https://rechtsgegenrechts.de/donate-the-hate/"> Donate the Hate - PROTESTERS TAKE NEW TACK AGAINST ALT RIGHT: HUMOR *Rechts Gegen Rechts*, 2017.
 
+- Omas Gegen Rechts. <a href="https://www.omas-gegen-rechts.org/2025/04/13/der-vorstand-des-vereins-omas-gegen-rechts-deutschland-e-v-hat-nicht-gelogen"> The board of the association Omas gegen Rechts Deutschland eV did not lie. *Grandmas Against Right Germany eV*, 2025.
+
+- Cresci, Elena. <a href="https://www.theguardian.com/world/2014/nov/18/neo-nazis-tricked-into-raising-10000-for-charity"> German town tricks neo-Nazis into raising thousands of euros for anti-extremist charity *The Guardian*, 2014.
+
 
 ***
 
